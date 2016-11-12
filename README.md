@@ -1,4 +1,4 @@
-A simple app to do a little in-deep exploring on middlewares
+A simple app to do a little in-deep exploring on using middlewares, and making a custom one.
 
 Using React and Redux.
 
