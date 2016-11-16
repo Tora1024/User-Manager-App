@@ -1,5 +1,15 @@
-A simple app to do a little in-deep exploring on using middlewares, and making a custom one.
 
-Using React and Redux.
+# User Manager App
 
-Clone this project, the proceed to do a npm install, and finally a npm start to have it on your local.
+A simple React.js / Redux app to do a little in-deep exploration using middlewares, and making custom ones.
+
+###Getting this locally###
+
+Click [here](https://github.com/Tora1024/User-Manager-App/archive/master.zip) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+```
+	> npm install
+	> npm start
+```
+
+Now open you browser with 'Localhost:8080' to test it out locally.
